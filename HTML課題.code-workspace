@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../HTML課題"
+		},
+		{
+			"path": "../../ruby"
+		},
+		{
+			"path": "../AppFirst/image"
+		},
+		{
+			"path": "../AppFirst"
+		},
+		{
+			"path": "../Sinatra"
+		}
+	],
+	"settings": {}
+}
